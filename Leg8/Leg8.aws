@@ -1,0 +1,12 @@
+[Version]
+Version=6.2
+[Designs]
+leg8=\\VBOXSVR\Arquitectura\Legv8-instruction-execution\Leg8\Leg8\Leg8.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+leg8=1

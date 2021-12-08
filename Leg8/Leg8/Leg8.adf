@@ -1,0 +1,25 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Leg8
+
+[Library]
+Leg8=.\Leg8.lib
+
+[$LibMap$]
+Leg8=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+[IMPLEMENTATION]
+UCF=
